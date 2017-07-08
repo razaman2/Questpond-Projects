@@ -10,3 +10,15 @@ C:\Users\razaman2\Documents\Visual Studio 2008\Projects\WinformCustomer\WinformC
 C:\Users\razaman2\Documents\Visual Studio 2008\Projects\WinformCustomer\WinformCustomer\obj\Debug\WinformCustomer.csproj.GenerateResource.Cache
 C:\Users\razaman2\Documents\Visual Studio 2008\Projects\WinformCustomer\WinformCustomer\obj\Debug\WinformCustomer.exe
 C:\Users\razaman2\Documents\Visual Studio 2008\Projects\WinformCustomer\WinformCustomer\obj\Debug\WinformCustomer.pdb
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\Questpond Projects\CustomerProjectPhase1\WinformCustomer\WinformCustomer\bin\Debug\WinformCustomer.exe
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\Questpond Projects\CustomerProjectPhase1\WinformCustomer\WinformCustomer\bin\Debug\WinformCustomer.pdb
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\Questpond Projects\CustomerProjectPhase1\WinformCustomer\WinformCustomer\bin\Debug\FactoryCustomer.dll
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\Questpond Projects\CustomerProjectPhase1\WinformCustomer\WinformCustomer\bin\Debug\MiddleLayer.dll
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\Questpond Projects\CustomerProjectPhase1\WinformCustomer\WinformCustomer\bin\Debug\FactoryCustomer.pdb
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\Questpond Projects\CustomerProjectPhase1\WinformCustomer\WinformCustomer\bin\Debug\MiddleLayer.pdb
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\Questpond Projects\CustomerProjectPhase1\WinformCustomer\WinformCustomer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\Questpond Projects\CustomerProjectPhase1\WinformCustomer\WinformCustomer\obj\Debug\WinformCustomer.FormCustomer.resources
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\Questpond Projects\CustomerProjectPhase1\WinformCustomer\WinformCustomer\obj\Debug\WinformCustomer.Properties.Resources.resources
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\Questpond Projects\CustomerProjectPhase1\WinformCustomer\WinformCustomer\obj\Debug\WinformCustomer.csproj.GenerateResource.Cache
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\Questpond Projects\CustomerProjectPhase1\WinformCustomer\WinformCustomer\obj\Debug\WinformCustomer.exe
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\Questpond Projects\CustomerProjectPhase1\WinformCustomer\WinformCustomer\obj\Debug\WinformCustomer.pdb

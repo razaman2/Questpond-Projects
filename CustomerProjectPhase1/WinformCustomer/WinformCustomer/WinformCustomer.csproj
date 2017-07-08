@@ -79,11 +79,11 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\MiddleLayer\FactoryCustomer\FactoryCustomer.csproj">
+    <ProjectReference Include="..\..\FactoryCustomer\FactoryCustomer.csproj">
       <Project>{521DE8C1-F32C-4B19-B392-A32854E6F55C}</Project>
       <Name>FactoryCustomer</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\MiddleLayer\MiddleLayer\MiddleLayer.csproj">
+    <ProjectReference Include="..\..\MiddleLayer\MiddleLayer.csproj">
       <Project>{7C3AF101-37A8-4AFE-8F9C-FDA65EAE31C8}</Project>
       <Name>MiddleLayer</Name>
     </ProjectReference>
