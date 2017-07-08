@@ -1,0 +1,7 @@
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\MiddleLayer\FactoryCustomer\bin\Debug\FactoryCustomer.dll
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\MiddleLayer\FactoryCustomer\bin\Debug\FactoryCustomer.pdb
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\MiddleLayer\FactoryCustomer\bin\Debug\MiddleLayer.dll
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\MiddleLayer\FactoryCustomer\bin\Debug\MiddleLayer.pdb
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\MiddleLayer\FactoryCustomer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\MiddleLayer\FactoryCustomer\obj\Debug\FactoryCustomer.dll
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\MiddleLayer\FactoryCustomer\obj\Debug\FactoryCustomer.pdb
