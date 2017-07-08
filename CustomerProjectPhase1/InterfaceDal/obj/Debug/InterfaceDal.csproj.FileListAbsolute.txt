@@ -1,0 +1,5 @@
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\Questpond Projects\CustomerProjectPhase1\InterfaceDal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\Questpond Projects\CustomerProjectPhase1\InterfaceDal\bin\Debug\InterfaceDal.dll
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\Questpond Projects\CustomerProjectPhase1\InterfaceDal\bin\Debug\InterfaceDal.pdb
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\Questpond Projects\CustomerProjectPhase1\InterfaceDal\obj\Debug\InterfaceDal.dll
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\Questpond Projects\CustomerProjectPhase1\InterfaceDal\obj\Debug\InterfaceDal.pdb

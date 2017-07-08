@@ -3,3 +3,10 @@ C:\Users\razaman2\Documents\Visual Studio 2008\Projects\MiddleLayer\MiddleLayer\
 C:\Users\razaman2\Documents\Visual Studio 2008\Projects\MiddleLayer\MiddleLayer\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\razaman2\Documents\Visual Studio 2008\Projects\MiddleLayer\MiddleLayer\obj\Debug\MiddleLayer.dll
 C:\Users\razaman2\Documents\Visual Studio 2008\Projects\MiddleLayer\MiddleLayer\obj\Debug\MiddleLayer.pdb
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\Questpond Projects\CustomerProjectPhase1\MiddleLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\Questpond Projects\CustomerProjectPhase1\MiddleLayer\obj\Debug\MiddleLayer.dll
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\Questpond Projects\CustomerProjectPhase1\MiddleLayer\obj\Debug\MiddleLayer.pdb
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\Questpond Projects\CustomerProjectPhase1\MiddleLayer\bin\Debug\MiddleLayer.dll
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\Questpond Projects\CustomerProjectPhase1\MiddleLayer\bin\Debug\MiddleLayer.pdb
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\Questpond Projects\CustomerProjectPhase1\MiddleLayer\bin\Debug\InterfaceCustomer.dll
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\Questpond Projects\CustomerProjectPhase1\MiddleLayer\bin\Debug\InterfaceCustomer.pdb

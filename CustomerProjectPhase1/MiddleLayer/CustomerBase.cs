@@ -1,8 +1,9 @@
 ﻿using System;
+using InterfaceCustomer;
 
 namespace MiddleLayer
 {
-    public abstract class CustomerBase
+    public abstract class CustomerBase : ICustomer
     {
         public string CustomerName { get; set; }
 
