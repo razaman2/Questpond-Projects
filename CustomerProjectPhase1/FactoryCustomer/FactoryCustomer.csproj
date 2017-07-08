@@ -32,7 +32,11 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Extensions">
       <RequiredTargetFramework>3.5</RequiredTargetFramework>
     </Reference>
     <Reference Include="System.Xml.Linq">
@@ -49,6 +53,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\InterfaceCustomer\InterfaceCustomer.csproj">
+      <Project>{AA6A2005-C6CE-470D-9436-ED493FCE7E4C}</Project>
+      <Name>InterfaceCustomer</Name>
+    </ProjectReference>
     <ProjectReference Include="..\MiddleLayer\MiddleLayer.csproj">
       <Project>{7C3AF101-37A8-4AFE-8F9C-FDA65EAE31C8}</Project>
       <Name>MiddleLayer</Name>

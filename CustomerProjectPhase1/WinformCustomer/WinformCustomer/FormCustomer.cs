@@ -6,14 +6,14 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
-using MiddleLayer;
+using InterfaceCustomer;
 using FactoryCustomer;
 
 namespace WinformCustomer
 {
     public partial class FormCustomer : Form
     {
-        private CustomerBase cust = null;
+        private ICustomer cust = null;
 
         public FormCustomer()
         {

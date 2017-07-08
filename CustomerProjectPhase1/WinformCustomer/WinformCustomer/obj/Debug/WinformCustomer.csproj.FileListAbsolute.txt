@@ -22,3 +22,5 @@ C:\Users\razaman2\Documents\Visual Studio 2008\Projects\Questpond Projects\Custo
 C:\Users\razaman2\Documents\Visual Studio 2008\Projects\Questpond Projects\CustomerProjectPhase1\WinformCustomer\WinformCustomer\obj\Debug\WinformCustomer.csproj.GenerateResource.Cache
 C:\Users\razaman2\Documents\Visual Studio 2008\Projects\Questpond Projects\CustomerProjectPhase1\WinformCustomer\WinformCustomer\obj\Debug\WinformCustomer.exe
 C:\Users\razaman2\Documents\Visual Studio 2008\Projects\Questpond Projects\CustomerProjectPhase1\WinformCustomer\WinformCustomer\obj\Debug\WinformCustomer.pdb
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\Questpond Projects\CustomerProjectPhase1\WinformCustomer\WinformCustomer\bin\Debug\InterfaceCustomer.dll
+C:\Users\razaman2\Documents\Visual Studio 2008\Projects\Questpond Projects\CustomerProjectPhase1\WinformCustomer\WinformCustomer\bin\Debug\InterfaceCustomer.pdb

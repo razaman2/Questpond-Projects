@@ -3,15 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using MiddleLayer;
+using InterfaceCustomer;
 
 namespace FactoryCustomer
 {
     // Design Pattern :- Simple Factory
     public static class Factory
     {
-        private static Dictionary<string, CustomerBase> custs = new Dictionary<string, CustomerBase>();
+        private static Dictionary<string, ICustomer> custs = new Dictionary<string, ICustomer>();
 
-        public static CustomerBase Create(string TypeCust)
+        public static ICustomer Create(string TypeCust)
         {
             // Design Pattern :- Lazy Loading || Eager Loading
             if (custs.Count == 0)
